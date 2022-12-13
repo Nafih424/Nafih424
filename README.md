@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nafih424
-- 👀 I’m interested in data science,ML and AI
+- 👀 I’m interested in data science,ML AI and Software Developer(mern stack)
 - 🌱 I had completed data science course from Excel R
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 contact me : abdulnafih424official@gmail.com
